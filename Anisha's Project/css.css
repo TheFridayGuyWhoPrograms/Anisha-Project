@@ -1,0 +1,40 @@
+body{
+    background-color:#d5e0f2;
+}
+header{
+    background-color:azure;
+    font-family:tahoma;
+    color:maroon;
+    text-align: center;
+    font-weight: bold;
+    font-size:50px;
+    border-style:ridge;
+    border-color:black;
+}
+nav{
+    background-color: maroon;
+    size:25px;
+    border-style:ridge;
+    border-color:black;
+    text-align: center;
+    font-weight: bold;
+}
+content{
+    font-size: 25px;
+    color:azure;
+    font-family:tahoma;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+}
+h3{
+    font-family:tahoma;
+    color:black;
+    text-align:left;
+    text-decoration: underline;
+    font-size:25px;
+}
+a{
+    padding: 10px;
+    font-size:20px
+}
